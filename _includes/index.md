@@ -1,59 +1,68 @@
 
+![Luke Stringer](luke.png)
 
-[Solo](http://solo.chibi.io) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+Hi. I'm Luke, a software engineer from Sheffield UK.
 
-<iframe src="http://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+[Twitter](http://twitter.com/lukestringer90) | [GitHub](http://github.com/lukestringer90) | [Linkedin](https://www.linkedin.com/in/lukestringer90) | [Email](mailto:lukestringer90@gmail.com)
 
-## Solo is useful if...
+## Skills
 
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
-* You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
-* You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
-* You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
+* iOS software engineering.
+* Objective-C, Xcode.
+* iOS provisioning and deployment.
+* Test driven development and unit testing.
+* [Open source](http://github.com/lukestringer90).
+* Git.
+* Teaching.
 
-This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
+## Experience
 
-## Usage
+* **2014: Senior iOS Software Engineer at [3Squared](http://3squared.com)**.
+	* Working with a QA team to implement a testing process. 
+	* Encouraging colleagues to write unit tests and use test-first principles in development. 
+	* Mentoring placement students and new members of the mobile development team. 
+	* Ensuring code and software design quality.
+	* Ensuring good practise of Git.
+* **2014: Developer of [Transported iPhone app](http://transportedapp.com)**. 
+	* Responsible for all development, design, and business related activities. App features:
+	* App provides live, localised bus and tram departure times in the South Yorkshire area. 
+* **2012: iOS Software Engineer at [3Squared](http://3squared.com)**.
+	* Building iOS apps for a number of clients in the rail, construction and hospitality industries.
+* **2011: Web Application Developer at [Genesys Solutions](http://genesys-solutions.org.uk/).**
+	* Ruby On Rails application - online knowledge collaboration tool for University students.
+	* Project lead overseeing other team members and ensuring project delivery.
+* **2011: iOS Developer at The University Of Sheffield Student's Union.**
+	* Developed an iPhone app to enable a society in the Sheffield University's Students' Union to distribute society event information. 
+	* App used the Facebook API to pull in event information and push back user's RSVP choices. 
+	* Also developed an accompanying admin website to be manage the content in the app and automatically send push notifications to devices when new content had been added.
+* **2011: Developer of [Safe Trip iPhone app](https://itunes.apple.com/us/app/safe-trip-get-safe-directions/id502844126?ls=1&mt=8) during [SVC2UK](http://www.svc2uk.com)**. 
+	* Worked as part of a team of 4 students over a 48 hour period to design and build a mobile application for the Silicon Valley Comes 2 The UK 2011 competition. 
+	* My team developed a web app, an Android app and an iPhone app, of which I was the lead developer for the iPhone app.
+	* SafeTrip calculates safe(r) walking directions using the Google Maps API and crime data from the UK government.
+	* Our idea won us an invitation to 10 Downing Street to meet the Prime Minister David Cameron, along with 8 other teams from around the country.
+	* Made the [national news!](http://www.bbc.co.uk/news/business-15770190)
+	
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/chibicode/solo). Start Jekyll and you should see this page up and running.
+## Publications
+### [University Of Shefﬁeld: Two Approaches to Semantic Text Similarity](http://www.aclweb.org/anthology/S/S12/S12-1097.pdf)
+ 
+> This paper describes the University of Shefﬁeld’s submission to SemEval-2012 Task 6: Semantic Text Similarity. Two approaches were developed. The ﬁrst is an unsupervised technique based on the widely used vector space model and information from WordNet. The second method relies on supervised machine learning and represents each sentence as a set of n-grams. This approach also makes use of information from WordNet. Results from the formal evaluation show that both approaches are useful for determining the similarity in meaning between pairs of sentences with the best performance being obtained by the supervised approach. Incorporating information from WordNet also improves performance for both approaches.
+ 
+### [Bird Sightings Journal iPhone App](http://www.dcs.sheffield.ac.uk/intranet/archive/public/2010_2011/projects/ug/aca08ls.html) (Undergraduate Dissertation)
 
-**The main file you'll be editing is `_includes/index.md`**. This becomes the content for the main `index.html`.
+> Bird watching has long been a passion of millions of people around Great Britain. The traditional combination of bird reference book, notebook and pencil are a tried and tested method of gathering accurate bird sighting information. With the invention of mobile computer technology, specifically in the field of smartphones, the opportunity for bringing bird watching into the modern age has never been greater. The project aims to bridge the analogue and digital mediums by conceptualising, designing, implementing and then evaluating a mobile software product for identifying and logging bird sightings. The software product should have good usability metrics by following respected usability engineering practises, and also provide a excellent bird information repository comparable to that of a conventional bird reference book.
 
-### Other Files
 
-* Edit `_config.yml` to change the site title.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
+## Qualifications
 
-### Don't use `<h1>` tags
+* 2012: First Class Masters Degree (with honours) in Software Engineering from The University Of Sheffield.
+* 3.5 A-levels in Mathematics, Physics and Applied ICT from Sheffield Hillsborough College.
 
-Wthin `index.md`, do not use `<h1>` tags - `<h1>` is reserved for the site title.
+## Other Interests
 
-### Supported Tags
+* [(attempted) Running](https://twitter.com/lukestringer90/status/518516722538921986)
+* [Heavy metal](https://twitter.com/lukestringer90/status/485580564561678336)
+* [Juggling](https://vimeo.com/76717147)
+* [Mindfulness meditation](http://www.samharris.org/blog/item/mindfulness-meditation)
 
-Solo supports lists, `<hr>`s, `<table>`s,
 
-> blockquotes, and...
-
-~~~html
-<pre>code blocks with syntax highlighting.</pre>
-~~~
-
-### Keep Solo up to date
-
-Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date.
-
-## Author
-
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
-
-![Shu Uesugi](http://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
-
-### License
-
-[MIT License](http://chibicode.mit-license.org/)
-
-<div class="github-fork-ribbon-wrapper right fixed" style="width: 150px;height: 150px;position: fixed;overflow: hidden;top: 0;z-index: 9999;pointer-events: none;right: 0;"><div class="github-fork-ribbon" style="position: absolute;padding: 2px 0;background-color: #333;background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));-webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);-moz-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);z-index: 9999;pointer-events: auto;top: 42px;right: -43px;-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);transform: rotate(45deg);"><a href="https://github.com/chibicode/solo" style="font: 700 13px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;color: #fff;text-decoration: none;text-shadow: 0 -1px rgba(0, 0, 0, 0.5);text-align: center;width: 200px;line-height: 20px;display: inline-block;padding: 2px 0;border-width: 1px 0;border-style: dotted;border-color: rgba(255, 255, 255, 0.7);">Fork me on GitHub</a></div></div>
