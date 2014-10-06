@@ -10,8 +10,7 @@ Hi. I'm Luke, a software engineer specialising in iOS development from Sheffield
 * iPhone and iPad development.
 * Objective-C, Xcode.
 * iOS provisioning and deployment.
-* Test driven development, unit testing using XCTest.
-* Core Data.
+* Test driven development.
 * [Open source](http://github.com/lukestringer90).
 * Git.
 * Teaching.
