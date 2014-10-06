@@ -1,16 +1,17 @@
 
 ![Luke Stringer](luke.png)
 
-Hi. I'm Luke, a software engineer from Sheffield UK.
+Hi. I'm Luke, a software engineer specialising in iOS development from Sheffield, UK.
 
 [Twitter](http://twitter.com/lukestringer90) | [GitHub](http://github.com/lukestringer90) | [Linkedin](https://www.linkedin.com/in/lukestringer90) | [Email](mailto:lukestringer90@gmail.com)
 
 ## Skills
 
-* iOS software engineering.
+* iPhone and iPad development.
 * Objective-C, Xcode.
 * iOS provisioning and deployment.
-* Test driven development and unit testing.
+* Test driven development, unit testing using XCTest.
+* Core Data.
 * [Open source](http://github.com/lukestringer90).
 * Git.
 * Teaching.
@@ -18,28 +19,28 @@ Hi. I'm Luke, a software engineer from Sheffield UK.
 ## Experience
 
 * **2014: Senior iOS Software Engineer at [3Squared](http://3squared.com)**.
+	* Mentoring placement students and new members of the mobile development team. 
 	* Working with a QA team to implement a testing process. 
 	* Encouraging colleagues to write unit tests and use test-first principles in development. 
-	* Mentoring placement students and new members of the mobile development team. 
 	* Ensuring code and software design quality.
 	* Ensuring good practise of Git.
 * **2014: Developer of [Transported iPhone app](http://transportedapp.com)**. 
-	* Responsible for all development, design, and business related activities. App features:
+	* Responsible for all development, design, and business related activities.
 	* App provides live, localised bus and tram departure times in the South Yorkshire area. 
 * **2012: iOS Software Engineer at [3Squared](http://3squared.com)**.
 	* Building iOS apps for a number of clients in the rail, construction and hospitality industries.
 * **2011: Web Application Developer at [Genesys Solutions](http://genesys-solutions.org.uk/).**
-	* Ruby On Rails application - online knowledge collaboration tool for University students.
-	* Project lead overseeing other team members and ensuring project delivery.
+	* Developed a Ruby On Rails application - an online knowledge collaboration tool for university students.
+	* Project lead overseeing the project delivery and mentoring team members.
 * **2011: iOS Developer at The University Of Sheffield Student's Union.**
-	* Developed an iPhone app to enable a society in the Sheffield University's Students' Union to distribute society event information. 
+	* Developed an iPhone app to enable a society in the Students' Union to distribute society event information. 
 	* App used the Facebook API to pull in event information and push back user's RSVP choices. 
-	* Also developed an accompanying admin website to be manage the content in the app and automatically send push notifications to devices when new content had been added.
+	* Also developed a companion CMS web app that automatically sent push notifications when new content was added.
 * **2011: Developer of [Safe Trip iPhone app](https://itunes.apple.com/us/app/safe-trip-get-safe-directions/id502844126?ls=1&mt=8) during [SVC2UK](http://www.svc2uk.com)**. 
 	* Worked as part of a team of 4 students over a 48 hour period to design and build a mobile application for the Silicon Valley Comes 2 The UK 2011 competition. 
-	* My team developed a web app, an Android app and an iPhone app, of which I was the lead developer for the iPhone app.
-	* SafeTrip calculates safe(r) walking directions using the Google Maps API and crime data from the UK government.
-	* Our idea won us an invitation to 10 Downing Street to meet the Prime Minister David Cameron, along with 8 other teams from around the country.
+	* Lead developer for the iPhone app, built in conduction with an web and Android app.
+	* SafeTrip calculated safe(r) walking directions using the Google Maps API and crime data from the UK government.
+	* Won an invitation to 10 Downing Street to meet the Prime Minister David Cameron.
 	* Made the [national news!](http://www.bbc.co.uk/news/business-15770190)
 	
 
@@ -56,7 +57,7 @@ Hi. I'm Luke, a software engineer from Sheffield UK.
 ## Qualifications
 
 * 2012: First Class Masters Degree (with honours) in Software Engineering from The University Of Sheffield.
-* 3.5 A-levels in Mathematics, Physics and Applied ICT from Sheffield Hillsborough College.
+* 2008: 3.5 A-levels in Mathematics, Physics and Applied ICT from Sheffield Hillsborough College.
 
 ## Other Interests
 
