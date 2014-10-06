@@ -1,5 +1,5 @@
 
-![Luke Stringer](luke.png)
+![Luke Stringer](http://s.gravatar.com/avatar/66df5cd089a2d9cbfaa7d42442156281?s=290)
 
 Hi. I'm Luke, a software engineer specialising in iOS development from Sheffield, UK.
 
@@ -65,5 +65,4 @@ Hi. I'm Luke, a software engineer specialising in iOS development from Sheffield
 * [Heavy metal](https://twitter.com/lukestringer90/status/485580564561678336)
 * [Juggling](https://vimeo.com/76717147)
 * [Mindfulness meditation](http://www.samharris.org/blog/item/mindfulness-meditation)
-
 
