@@ -3,7 +3,7 @@
 
 Hi. I'm Luke, a software engineer specialising in iOS development from Sheffield, UK.
 
-[Twitter](http://twitter.com/lukestringer90) | [GitHub](http://github.com/lukestringer90) | [Linkedin](https://www.linkedin.com/in/lukestringer90) | [Email](mailto:lukestringer90@gmail.com)
+[Twitter](http://twitter.com/lukestringer90) | [GitHub](http://github.com/lukestringer90) | [Linkedin](https://www.linkedin.com/in/lukestringer90) | [Email](mailto:hello@lukestringer.me)
 
 ## Skills
 
