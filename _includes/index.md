@@ -22,7 +22,7 @@ Hi. I'm Luke, a software engineer specialising in iOS development from Sheffield
     * Planning the long term deliveries of software products.
     * Defining and implementing standards.
 * **2015: Co-organiser of [Sheffield Swift](http://twitter.com/SheffieldSwift)**.
-    * Monthly meet up discussing the Swift programming language
+    * Monthly meet up discussing the [Swift programming language](https://developer.apple.com/swift/).
 * **2014: Senior iOS Software Engineer at [3Squared](http://3squared.com)**.
 	* Mentoring placement students and new members of the mobile development team. 
 	* Working with a QA team to implement a testing process. 
