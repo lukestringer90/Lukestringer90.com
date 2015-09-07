@@ -17,10 +17,13 @@ Hi. I'm Luke, a software engineer specialising in iOS development from Sheffield
 
 ## Experience
 
+* **2015: Head of Mobile at [3Squared](http://3squared.com)**.
+    * Leading a growing team of talented developers.
+    * Planning the long term deliveries of software products.
+    * Defining and implementing standards.
 * **2014: Senior iOS Software Engineer at [3Squared](http://3squared.com)**.
 	* Mentoring placement students and new members of the mobile development team. 
 	* Working with a QA team to implement a testing process. 
-	* Encouraging colleagues to write unit tests and use test-first principles in development. 
 	* Ensuring code and software design quality.
 	* Ensuring good practise of Git.
 * **2014: Developer of [Transported iPhone app](http://transportedapp.com)**. 
