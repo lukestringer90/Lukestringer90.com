@@ -1,7 +1,7 @@
 
 ![Luke Stringer](http://s.gravatar.com/avatar/66df5cd089a2d9cbfaa7d42442156281?s=290)
 
-Hi. I'm Luke, a iOS software engineer and team leader from Sheffield, UK.
+Hi. I'm Luke, an iOS software engineer and team leader from Sheffield, UK.
 
 [Twitter](http://twitter.com/lukestringer90) | [GitHub](http://github.com/lukestringer90) | [Linkedin](https://www.linkedin.com/in/lukestringer90) | [Email](mailto:hello@lukestringer.me)
 
