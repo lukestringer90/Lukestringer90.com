@@ -1,19 +1,17 @@
 
 ![Luke Stringer](http://s.gravatar.com/avatar/66df5cd089a2d9cbfaa7d42442156281?s=290)
 
-Hi. I'm Luke, a software engineer specialising in iOS development from Sheffield, UK.
+Hi. I'm Luke, a iOS software engineer and team leader from Sheffield, UK.
 
 [Twitter](http://twitter.com/lukestringer90) | [GitHub](http://github.com/lukestringer90) | [Linkedin](https://www.linkedin.com/in/lukestringer90) | [Email](mailto:hello@lukestringer.me)
 
 ## Skills
 
-* iPhone and iPad development.
-* Objective-C, Xcode.
-* iOS provisioning and deployment.
-* Test driven development.
-* [Open source](http://github.com/lukestringer90).
-* Git.
-* Teaching.
+* ~7 years Experience of iOS Development
+* Expert Knowledge of Objective-C, Swift, Xcode, Git
+* Team Leadership & Management
+* Comercial Awareness
+* Public Speaking
 
 ## Experience
 
